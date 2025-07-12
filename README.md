@@ -5,7 +5,7 @@ A modern hospital management system built with Spring Boot and React.
 ## 🚀 Features
 
 - **Patient Management**
-  - Patient registration and profiles
+  - Patient registration and profile
   - Medical history tracking
   - Appointment booking
   - Prescription management
